@@ -38,15 +38,6 @@ student=Student.new("Can", "E22")
 assert_equal("c# is my fave!", student.student_confessor("c#"))
 end
 
-
-
-
-
-
-
-
-
-
 end
 # For this part we want you to make a class that represents a CodeClan student.
 #
